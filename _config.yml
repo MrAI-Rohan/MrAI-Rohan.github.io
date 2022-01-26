@@ -20,7 +20,7 @@ rss: https://rss.app/feeds/MUQJ0oHTMOxUWsDu.xml
 use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics: 292290684
+google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 future: true
