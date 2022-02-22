@@ -26,6 +26,7 @@ google_analytics:
 future: true
 theme: minima
 plugins:
+  - jekyll-feed
   - jekyll-gist
   - jekyll-octicons
   - jekyll-toc
